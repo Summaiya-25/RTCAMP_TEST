@@ -7,6 +7,7 @@ Hi 👋, I'm Summaiya Mujawar
 😄 My linkedIn: https://www.linkedin.com/in/summaiya-mujawar-767b24165/
 
 ------------------------------------------------------------------------------------------------------
+URL: https://www.saucedemo.com/
 
 Instructions on how to set up and run the test locally.
 >> Step 1: Copy or import file RT_CAMP_TEST.java, java code into eclipse.
